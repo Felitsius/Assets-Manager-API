@@ -1,0 +1,144 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# Распространенные виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+
+# Файлы распределения / упаковки
+.python/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Установщики
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Файлы тестирования
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Логи и базы данных
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Alembic миграции
+# Раскомментируйте, если не хотите коммитить миграции
+# migrations/versions/*
+
+# Среда разработки
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.cursor/
+.env.local
+.env.*.local
+
+# Файлы окружения
+.env
+.env.example
+.env.production
+.env.development
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Профайлеры
+.prof
+.profiling/
+
+# Файлы проектов
+*.pid
+*.seed
+*.pid.lock
+
+# Файлы документации
+docs/_build/
+
+# Сборка фронтенда (если есть)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Docker
+.dockerignore
+
+# Временные файлы
+tmp/
+temp/
+*.tmp
+
+# Файлы для отладки
+debug.log
+error.log
+access.log
+
+# Кэш браузера для API документации
+.swagger-codegen-ignore
+
+# Файлы с секретами
+secrets.json
+secrets.yaml
+credentials.json
+*.key
+*.pem
+*.crt
