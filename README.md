@@ -42,8 +42,8 @@
 
 ## 📁 Структура проекта
 
-asset-manager-api/
-├── app/
+asset-manager-api/\n
+├── app/\n/n
 │ ├── api/ # API маршруты
 │ │ ├── v1/
 │ │ │ ├── endpoints/ # Обработчики маршрутов
