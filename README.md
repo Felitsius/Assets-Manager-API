@@ -41,9 +41,9 @@
 | Docker | Latest | Контейнеризация |
 
 ## 📁 Структура проекта
-
-asset-manager-api/\n
-├── app/\n/n
+```
+asset-manager-api/
+├── app/
 │ ├── api/ # API маршруты
 │ │ ├── v1/
 │ │ │ ├── endpoints/ # Обработчики маршрутов
@@ -79,3 +79,4 @@ asset-manager-api/\n
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
